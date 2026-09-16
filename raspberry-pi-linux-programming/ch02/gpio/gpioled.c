@@ -3,7 +3,7 @@
 #include <gpiod.h>
 
 #define GPIO_CHIP "/dev/gpiochip0"
-#define GPIO_LINE 17
+#define GPIO_LINE 18
 
 int main(void)
 {

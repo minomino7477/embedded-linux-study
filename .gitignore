@@ -2,6 +2,7 @@
 switchled
 buzzer
 pwmled
+gpioled
 
 # Object files
 *.o
