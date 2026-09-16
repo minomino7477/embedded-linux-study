@@ -1,5 +1,6 @@
 # Compiled vinaties
 switchled
+buzzer.c
 
 # Object files
 *.o
