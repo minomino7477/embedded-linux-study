@@ -1,6 +1,7 @@
 # Compiled vinaties
 switchled
-buzzer.c
+buzzer
+pwmled
 
 # Object files
 *.o
