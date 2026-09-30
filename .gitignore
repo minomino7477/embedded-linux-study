@@ -3,6 +3,7 @@ switchled
 buzzer
 pwmled
 gpioled
+cdscontrol
 dcmotor
 
 # Object files
