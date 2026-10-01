@@ -5,6 +5,7 @@ pwmled
 gpioled
 cdscontrol
 dcmotor
+dcmotor_pwm
 
 # Object files
 *.o
