@@ -10,7 +10,7 @@ int main(int argc, char **argv)
     char buf[1024];
     /* 명령행 인수로 복사할 파일명이 없는 경우에 에러를 출력하고 종료한다. */
     if (argc < 3) {
-        write(2, "Usage : copy file1 file1\n", 25);
+        write(2, "Usage : copy file1 file2\n", 25);
         return -1;
     }
 
