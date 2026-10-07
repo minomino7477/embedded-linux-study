@@ -8,6 +8,7 @@ dcmotor
 dcmotor_pwm
 sevensegment
 copy
+fcopy
 
 # Object files
 *.o
