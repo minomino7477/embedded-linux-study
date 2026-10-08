@@ -10,6 +10,7 @@ sevensegment
 copy
 fcopy
 hitkey
+tm1637_test
 
 # Object files
 *.o
